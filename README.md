@@ -4,7 +4,7 @@ I’m Riya Rajan Kale, a Software Engineer at Breathing.ai with a Master’s in 
 
 ## Skills
 
-- Web Development
+- Software Development
 - AWS Cloud
 - MERN Stack
 - Data Analytics
